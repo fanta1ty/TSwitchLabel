@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'TSwitchLabel is a simple and flexible UI component fully written in Swift.'
+  s.description      = 'TSwitchLabel is a simple and flexible UI component fully written in Swift. TSwitchLabel is developed for you to easily use when you need to design a UI with Label and Switch in the fastest way without having to spend time on develop from scratch.'
   
   s.homepage         = 'https://github.com/fanta1ty/TSwitchLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'

@@ -1,0 +1,16 @@
+PODS:
+  - TSwitchLabel (1.0.0)
+
+DEPENDENCIES:
+  - TSwitchLabel (from `../`)
+
+EXTERNAL SOURCES:
+  TSwitchLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSwitchLabel: 6ce8380ed68f955ec5574498a5bff77bc53631ad
+
+PODFILE CHECKSUM: 64f92277959c2c78fcfbcf60408a6a285bc64a63
+
+COCOAPODS: 1.11.3

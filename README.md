@@ -30,6 +30,16 @@ pod 'TSwitchLabel'
 import TSwitchLabel
 ```
 
+1) Initiate ``TSwitchLabel``
+```swift
+let switchLabel = TSwitchLabel()
+```
+
+2) To show title, please input into ``title`` property
+```swift
+switchLabel.titleLabel.text = "TSwitch Label"
+```
+
 ![alt text](https://github.com/fanta1ty/TSwitchLabel/blob/master/ScreenShot/Screen%20Shot.gif)
 
 ## Requirements

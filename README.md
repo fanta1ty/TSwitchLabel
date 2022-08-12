@@ -1,4 +1,4 @@
-![LOGO](https://github.com/fanta1ty/TTipBoxView/blob/master/ScreenShot/Logo.png)
+![LOGO](https://github.com/fanta1ty/TSwitchLabel/blob/master/ScreenShot/Logo.png)
 
 # TSwitchLabel
 
@@ -30,7 +30,7 @@ pod 'TSwitchLabel'
 import TSwitchLabel
 ```
 
-![alt text](https://github.com/fanta1ty/TTipBoxView/blob/master/ScreenShot/Screen%20Shot.png)
+![alt text](https://github.com/fanta1ty/TSwitchLabel/blob/master/ScreenShot/Screen%20Shot.gif)
 
 ## Requirements
 - iOS 10.0 or later
